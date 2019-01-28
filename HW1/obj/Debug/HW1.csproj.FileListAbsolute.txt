@@ -1,0 +1,7 @@
+C:\Users\diwas\Desktop\.Spring 2019\.CptS 321 Object-Oriented Software Principle\Homework\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\diwas\Desktop\.Spring 2019\.CptS 321 Object-Oriented Software Principle\Homework\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\diwas\Desktop\.Spring 2019\.CptS 321 Object-Oriented Software Principle\Homework\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\diwas\Desktop\.Spring 2019\.CptS 321 Object-Oriented Software Principle\Homework\HW1\HW1\obj\Debug\HW1.csprojAssemblyReference.cache
+C:\Users\diwas\Desktop\.Spring 2019\.CptS 321 Object-Oriented Software Principle\Homework\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\Users\diwas\Desktop\.Spring 2019\.CptS 321 Object-Oriented Software Principle\Homework\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\diwas\Desktop\.Spring 2019\.CptS 321 Object-Oriented Software Principle\Homework\HW1\HW1\obj\Debug\HW1.pdb
